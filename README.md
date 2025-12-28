@@ -39,3 +39,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
 </div>
 
+###
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElMatoi&theme=monokai&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ElMatoi&theme=monokai&hide_border=true)
+
+</div>
+
